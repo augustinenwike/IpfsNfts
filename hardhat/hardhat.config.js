@@ -15,4 +15,4 @@ module.exports = {
   },
 };
 
-// LW3Punks Contract Address: 0x746ad2Ba3155C4DD9A50B63BCC65518dbB5e7443
+// LW3Punks Contract Address: 0x64deCBD4B0335B4db75530B92748ad3Fa15d8496
