@@ -82,7 +82,7 @@
         walletconnect: {
           package: WalletConnectProvider,
           options: {
-            rpc: { 80001: process.env.POLYGON_PUBLIC_RPC },
+            rpc: { 80001: process.env.NEXT_PUBLIC_POLYGON_PUBLIC_RPC},
           },
         },
       };
